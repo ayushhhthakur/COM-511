@@ -8,5 +8,4 @@ Perform the following operations:
 - To extract characters in the given range from the given string check if the string.
 - Check if the string is alphanumeric or not.
 
-
 Check Code [Here](string.py)
