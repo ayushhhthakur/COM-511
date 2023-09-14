@@ -9,7 +9,7 @@
 Check Code [Here](simple_interest.py)
 
 3) Program to calculate the Area of a triangle using `Heron's Formula.`
- Check Code [Here](Area_of_triangle.py)
+ Check Code [Here](Area_of_Triangle.py)
 
 4) Program to `swap` two integer numbers using a `temporary variable.`
  Check Code [Here](swap.py)
