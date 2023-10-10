@@ -1,4 +1,4 @@
-## Experiment Number 3 (13-09-2023)
+## Experiment Number 3
 
 ### Activity No 3
 
